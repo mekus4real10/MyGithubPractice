@@ -1,3 +1,5 @@
 #!/bin/bash
 
-git add . && git commit -m "parts, Results and express" && git push 
+git add . 
+git commit -m "combined, printing and executinh"  
+git push 
